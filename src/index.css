@@ -209,3 +209,47 @@
         height: auto;
     }
 }
+
+
+/* --------------------------------------------------------------------------- */
+#confit{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+  }
+  #confit_outer{
+    display: none;
+  }
+
+  #confit2{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+  }
+  #confit_outer2{
+    display: none;
+  }
+
+  #confit3{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+  }
+  #confit_outer3{
+    display: none;
+  }
